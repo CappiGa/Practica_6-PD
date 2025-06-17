@@ -1,4 +1,4 @@
-```markdown
+
 # **Práctica 6-1 - Buses de comunicación II (SPI) - Lectura/Escritura en Memoria SD**  
 
 ## **1. Descripción**  
