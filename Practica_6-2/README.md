@@ -95,7 +95,7 @@ void loop() {
   Acerca una tarjeta RFID...
   UID detectado:  01 A3 7B 2D
   ```
-  - **Funcionamiento**:  
+- **Funcionamiento**:  
   - El módulo RC522 escanea continuamente.  
   - Al acercar una tarjeta, el UID se imprime en formato hexadecimal.  
   - Si no hay tarjeta, el loop se reinicia sin mostrar datos.  
