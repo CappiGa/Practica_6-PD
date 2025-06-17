@@ -43,7 +43,7 @@ Esta práctica implementa el uso del bus **SPI** en el **ESP32-S3** para interac
 
 ## **5. Desarrollo**  
 
-### **5.1 Preparación del entorno* 
+### **5.1 Preparación del entorno**
 1. Crear un nuevo proyecto en PlatformIO.  
 2. Configurar el archivo `platformio.ini`con el siguiente contenido:  
    ```ini
