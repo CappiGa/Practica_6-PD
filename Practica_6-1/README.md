@@ -35,8 +35,7 @@ Esta práctica implementa el uso del bus **SPI** en el **ESP32-S3** para interac
 ## **4. Materiales**  
 - **ESP32-S3**  
 - **Tarjeta microSD** (formateada en FAT32).  
-- **Lector de tarjetas SD** (compatible con SPI).  
-- **Resistencias pull-up** (opcional, para estabilidad).  
+- **Lector de tarjetas SD** (compatible con SPI).    
 - **Cable USB-C**.  
 
 ---
