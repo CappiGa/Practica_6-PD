@@ -3,7 +3,6 @@
 
 ## **1. Descripción**  
 Esta práctica implementa el uso del bus **SPI** en el **ESP32-S3** para interactuar con una tarjeta **SD**, demostrando la escritura y lectura de archivos. Se explora el protocolo SPI, su configuración y las ventajas de su arquitectura maestro-esclavo en aplicaciones de almacenamiento.  
-
 ---
 
 ## **2. Objetivos**  
@@ -37,7 +36,7 @@ Esta práctica implementa el uso del bus **SPI** en el **ESP32-S3** para interac
 - **Tarjeta microSD** (formateada en FAT32).  
 - **Lector de tarjetas SD** (compatible con SPI).    
 - **Cable USB-C**.  
-
+![Image](https://github.com/user-attachments/assets/3bccd17d-3587-4808-bc8b-18cb94ab9825" /)
 ---
 
 ## **5. Desarrollo**  
@@ -120,12 +119,13 @@ void loop() {}  // No se usa
 ---
 
 ## **6. Resultados**  
-- **Salida del monitor serie** (éxito):  
+- **Salida del monitor serie**:  
   ```plaintext
   Iniciando SD...SD inicializada correctamente.
   Escribiendo en archivo...
   Escritura completada.
   Contenido de /ejemplo.txt:
   Hola, este es un archivo creado en la SD con ESP32-S3.
-  ```  
+  ```
+  https://github.com/user-attachments/assets/2aae0e8f-8e6e-4600-bf61-4c87a6b23ab9" /
 ---
