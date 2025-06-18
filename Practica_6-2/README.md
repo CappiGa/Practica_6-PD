@@ -15,7 +15,7 @@ Esta práctica utiliza el bus **SPI** para comunicar un **ESP32** con un módulo
 - **ESP32** (o ESP32-S3).  
 - **Módulo RFID RC522**.  
 - **Tarjetas/tags RFID** (MIFARE).  
-  
+  [Image](https://github.com/user-attachments/assets/274d03ef-78ae-4e1f-aab1-06bab13f6c04)
 ---
 
 ## **4. Desarrollo**  
@@ -95,9 +95,11 @@ void loop() {
   Acerca una tarjeta RFID...
   UID detectado:  01 A3 7B 2D
   ```
+  ![Image](https://github.com/user-attachments/assets/b70ce971-eba7-49f2-8b3d-aa656d2b30dd)
 - **Funcionamiento**:  
   - El módulo RC522 escanea continuamente.  
-  - Al acercar una tarjeta, el UID se imprime en formato hexadecimal.  
+  - Al acercar una tarjeta, el UID se imprime en formato hexadecimal.
+   ![Image](https://github.com/user-attachments/assets/0c9fa0f8-f1c0-471b-a016-4047de884134)
   - Si no hay tarjeta, el loop se reinicia sin mostrar datos.  
 
 ---
