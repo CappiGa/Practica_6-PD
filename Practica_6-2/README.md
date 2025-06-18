@@ -15,7 +15,7 @@ Esta práctica utiliza el bus **SPI** para comunicar un **ESP32** con un módulo
 - **ESP32** (o ESP32-S3).  
 - **Módulo RFID RC522**.  
 - **Tarjetas/tags RFID** (MIFARE).  
-  [Image](https://github.com/user-attachments/assets/274d03ef-78ae-4e1f-aab1-06bab13f6c04)
+![Image](https://github.com/user-attachments/assets/274d03ef-78ae-4e1f-aab1-06bab13f6c04)
 ---
 
 ## **4. Desarrollo**  
